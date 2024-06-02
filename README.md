@@ -5,6 +5,5 @@ Segue o link:
 https://lu-bikecraft.netlify.app/ <br>
 
 
-
-<iframe> https://github.com/Ludevquest/bikcraft/assets/158842997/68aedfe5-4e14-4dbc-a3ea-b76c39f7345a </iframe>
+-------------------------------------- https://github.com/Ludevquest/bikcraft/assets/158842997/68aedfe5-4e14-4dbc-a3ea-b76c39f7345a -----------------------------------------
 
